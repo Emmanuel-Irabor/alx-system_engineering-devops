@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod -hR vincent:staff .
 chmod -hR vincent:staff *
